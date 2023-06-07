@@ -14,7 +14,7 @@
 #define GAME  2
 #define BLUETOOTH  3
 
-&left_encoder { resolution = <5>; };
+&left_encoder { resolution = <1>; };
 
 / {
     keymap {
